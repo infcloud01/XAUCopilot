@@ -1,4 +1,4 @@
-*Built with ❤️ by [eXo Business Technologies](https:exobtech.com) using [CrewAI](https://crewai.com)*
+*Built with ❤️ by [eXo Business Technologies](https://exobtech.com) using [CrewAI](https://crewai.com)*
 
 # XAUCopilot
 An AI trading Agent built with crewai
