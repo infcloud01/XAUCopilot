@@ -1,10 +1,9 @@
 ---
 *Built with ❤️ by eXo Business Technologies using [CrewAI](https://crewai.com)*
-```
+---
 # XAUCopilot
 An AI trading Agent built with crewai
 
-```markdown
 # 📉 XAUCopilot: The AI Gold Trading Assistant
 
 **A "Digital Hedge Fund" built with CrewAI that trades Gold (XAU/USD) using Fundamental and Technical Analysis.**
@@ -111,4 +110,4 @@ Contributions are welcome! If you want to add a "Risk Manager" agent or support 
 
 ---
 *Built with ❤️ by eXo Business Technologies using [CrewAI](https://crewai.com)*
-```
+
