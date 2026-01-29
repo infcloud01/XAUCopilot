@@ -38,7 +38,7 @@ The system follows a sequential process:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/xaucopilot.git
+git clone https://github.com/infcloud01/xaucopilot.git
 cd xaucopilot
 ```
 
